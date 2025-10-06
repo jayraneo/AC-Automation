@@ -1,4 +1,4 @@
-# AC Automation Controller (CVAC)
+# Computer Vision based AC Automation Controller (CVAC)
 
 A Python-based automation system for controlling **LG ThinQ** air conditioning units through the official LG ThinQ API. This project provides a simple interface to manage AC operations including power control, temperature settings, mode changes, and fan speed adjustments.
 
